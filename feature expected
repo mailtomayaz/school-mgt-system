@@ -1,6 +1,11 @@
+
+
+
 Full Feature List
 
+
 Class System
+
 Create unlimited amount of classes for your School.
 Each Class can have assignments, timetables, attendance, announcements, study files, library books and more assigned to it.
 Classes can have students and teachers added to them.
@@ -20,7 +25,9 @@ Group classes into Categories.
 Add unqiue grading system for each class.
 Specify the weighting of each assignment.
 Ability to mark each assignment
+
 Announcements
+
 Global school announcements can be posted by staff that notify the whole school.
 Global announcements are displayed on the frontpage.
 Study Material
@@ -28,7 +35,9 @@ File System which allows you to upload files to the site that Students can then 
 Specified the allowed file types in the Admin Panel.
 Organise your files into categories.
 Files can be added to Classes for easy access.
+
 Students
+
 Custom User Roles allows you to specify what permissions your Students have.
 Students can be managed by Teachers, including viewing all their classes, attendance and behaviour records.
 Student Groups allow you to group your students together.
@@ -36,7 +45,9 @@ Student Groups have their own page where the teacher can post announcements.
 Restrict access to who can view which Student Groups.
 School Report shows student’s grades and attendance for each class.
 Download School Report as PDF.
+
 Parents
+
 Parents can have children assigned to them.
 Parents can view all the details of their children, including classes, attendance, behaviour reports and school reports.
 Parent Manager User Role allows the user to manage parents.
@@ -49,7 +60,9 @@ Prevents spam by making sure the email address is unique and valid.
 Passwords are encrypted using PHPass library to make sure your data is safe!
 Can disable registration from Admin Panel, as well as Social Login option.
 User roles allow you to give permissions to specific users.
+
 Finance System
+
 Keep track of your finances by adding costs and revenue entries.
 Dashboard produces beautiful graph of your years finances.
 Organise with Categories.
@@ -58,7 +71,9 @@ Add Rules that you can record records of.
 Behaviour Records allow you to record incidents of rule breaking for students.
 Assign students to records, including date and incident report.
 View a user’s behaviour records in the View Students section.
+
 Invoice System
+
 Create Invoices that can be paid with PayPal, Stripe or 2Checkout.
 Automatically set Invoice to paid by using PayPal’s IPN system, Stripe’s API or 2Checkouts API.
 Two different Tax options.
@@ -73,26 +88,36 @@ Add unlimited books to your Library system.
 Allow students to reserve books.
 Allow Librarian/Teacher to checkout books for students.
 View all reserved/checkedout books.
+
 Reports
+
 View Financial Reports between specified date ranges.
 View Attendance Reports between specified date ranges.
+
 Mailbox
+
 Send Messages to any user on the system.
 View all your messages in a beautiful designed inbox.
 Block List to block users.
 Get notifications when you recieve new messages.
+
 Members
+
 Search Members by username.
 User Profiles.
 User Settings area allows user to change their avatar, update their name and other information.
 Change Password option in Settings page too.
+
 User Roles
+
 User Role system allows you to assign specific permissions to users.
 Set a default User Role in the Admin panel.
 Admins have access to all sections of the site.
 Create custom User Roles in the Admin Panel.
 Create User Roles specifically for parents,students,teachers so they don’t see more than they need to.
+
 Admin Panel
+
 Able to disable registration
 Able to disable Captcha, Google ReCaptcha
 Change site name, logo and other settings.
@@ -113,11 +138,12 @@ Easy translate the entire system by modifying our translation files (just 3 to e
 Allow users to switch between a language of their choice using our unique Language Switcher.
 Supports any UTF-8 language and RTL languages!
 Documentation Guide to walk you through how to translate
+
 System
-Built on CodeIgniter 3.1.5
+Built on Laravel 5.3.5
 Built on Bootstrap 3.3.4
 Translation Ready
-Requires PHP 5.4 and a MySQL database.
+Requires PHP 7 and a MySQL database.
 Supports MySQL, Mysqli and PDO drivers.
 Supports SMTP Email, PHP Mail()
-Four Themes: Basic, Titan, Dark Fire and Light Blue.
+
