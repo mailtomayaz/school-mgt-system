@@ -1,4 +1,242 @@
 
+Feature list 1
+Advance School Management System Core Features
+
+ADMIN PANEL
+
+Managing User accounts (teacher, student, parent)
+Managing classes, subjects
+Managing exam, grades
+Managing exam marks
+Managing Loan Information
+Managing Computer Based Test (CBT)
+Sending exam marks via sms
+Managing students attendance
+Managing accounting, income and expenses
+Managing school events
+Managing Teachers
+Managing Libratrian
+Managing Accountant
+Manage Circular
+Manage Task
+Managing Parents
+Managing Alumni
+Managing Academic Sysllabus
+Managing Helpful Links
+Managing Help Desk
+Managing Front-End Information
+Managing School Session
+Attendance
+Reports
+Managing Staff ID Cards
+Records management.
+Notification board management.
+Management relationships between different type of users.
+Online Payment acceptance of FEE.
+Section Management.
+Reports generator.
+SMS Alerts.
+Managing Hostel Manager
+Managing library, dormitory, transport
+Messaging between other users
+Managing system settings (general, sms, language)
+Managing Media
+Subject management.
+Class management.
+Student payments management.
+Student behaviour management.
+Payments Overview.
+Subjects and assignments management.
+Fees management.
+Student assignment results management.
+Student search.
+Overdue students list.
+Student management.
+Student-Teacher interaction.
+And many more …
+TEACHERS
+
+Manage Students homework.
+Assign homework.
+Share homework on social networking sites (facebook).
+Manage classes.
+Manage Student Report.
+Generate Remarks on Student Reports.
+Generate Student Attendence.
+Subject management.
+Loan Application
+Class management.
+Student behaviour management.
+Subjects and assignments management.
+Student assignment results management.
+Student search.
+Student management.
+Student-Teacher interaction.
+Managing Helpful Links
+Managing Media
+Assignments
+Attendance
+Provide Daily Quotes
+Holidays
+Studennts Study Materials
+Message
+Noticeboard
+Transportations
+And many more…
+STUDENT PANEL
+
+Get class Routine
+Attempt Online Exam
+View Online Exam Result
+Get Exam Marks
+Message
+View Noticeboard
+Transportation
+Receive SMS
+Get attendance status
+Get study materials / files from teacher
+Get payment invoice,
+Pay Online
+Communicate with teacher Managing Media accounts
+View Event Schedule, Notice and Holidays
+Get Helpful Links
+View Daily Quotes
+Contact Help Desks
+And many more ….
+PARENT PANEL
+
+
+ 
+View Children Marks
+View Children Class Routine
+Make payment
+View Payment Invoice
+Message Admin
+Message Teachers
+View Received Messkages
+Checkin kids progress.
+Parent-Teacher interaction.
+Get alerts from School Administration or Teachers.
+View events
+Noticeborad
+Todays Thought
+News
+Helpful Links
+Help Desk
+Receive SMS
+And many more …
+LIBRARIAN
+
+Add books
+Update books
+Record Lost Books
+Generate Reports on Books
+Subject Management.
+Loan Application
+Student Search.
+Student Management.
+Student-Librarian Interaction.
+View Helpful Links
+View Media
+Holidays
+Studennts Study Materials
+Message
+Transportations
+Noticeboard
+View Notification
+And many more ….
+ACCOUNTANTS
+
+Create Student Payments
+Students Payment
+Expenses
+Expenses Category
+Vew all Accountants
+Loan Application
+Todays Thought
+News
+Holidays
+Message
+Noticeboard
+And many more ….
+HOTEL MANAGER
+
+View All Hostel Managers
+Manage Hostels
+Loan Application
+Todays Thought
+News
+Holidays
+Message
+Noticeboard
+And many more ….
+Advance School Management System Admin Dashboard Description
+
+Total number of students, teachers, librarian, accountants, hostel manager, alumni, parents and attendance of students for that day at a glance, Dashboard also holds a calendar for showing events, charts for various percentages of teachers, parents, students attendance, grades, students performances, etc.
+
+MANAGING SESSION
+
+From navigation go to manage session
+Add / edit / delete
+MANAGING ACADEMIC SYLLABUS
+
+From navigation go to manage academic syllabus
+Add / edit / delete
+MANAGING MEDIA
+
+From navigation go to manage media
+Add / edit / delete
+MANAGING STUDENTS
+
+Admit Students
+From navigation, go to students > admit students
+Fill up the necessary information
+Save student
+Admit Bulk Students
+
+From navigation, go to student > admit bulk student
+Download the blank Excel file
+Fill up the information
+Select class
+Upload the filled up Excel file
+Save
+Student Information
+
+From navigation go to student > student information
+Here you can see the students class wise
+If a class has sections then you can also browse the students as per class sections
+Student mark sheets
+
+From navigation go to student > student mark sheet
+Here you can see all the students marks class wise
+If the class has sections then you can also see them along with class
+MANAGING TEACHERS
+
+From navigation go to teacher
+Here you can see the list of teachers of your school in a tabular form
+To add a new teacher, click the top right button named add new teacher and fill up the information and save
+For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action editing and deleting
+MANAGING ACCOUNTANTS
+
+From navigation go to accountant
+Here you can see the list of accountants of your school in a tabular form
+To add a new accountant, click the top right button named add new accountant and fill up the information and save
+For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting.
+Click on the required action editing and deleting
+MANAGING LIBRARIANS
+
+From navigation go to librarian
+Here you can see the list of librarians of your school in a tabular form
+To add a new librarian, click the top right button named add new librarian and fill up the information and save
+For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting.
+Click on the required action editing and deleting
+MANAGING HOSTEL MANAGERS
+
+From navigation go to hostel manager
+Here you can see the list of hostel managers of your school in a tabular form
+To add a new hostel manager, click the top right button named add new hostel manager and fill up the information and save
+For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting.
+Click on the required action editing and deleting.
 
 
 Full Feature List
