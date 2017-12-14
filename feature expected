@@ -1,0 +1,123 @@
+Full Feature List
+
+Class System
+Create unlimited amount of classes for your School.
+Each Class can have assignments, timetables, attendance, announcements, study files, library books and more assigned to it.
+Classes can have students and teachers added to them.
+Allow Students to sign up to classes. Limit the amount of sign ups.
+Add Timetable events so your students know when the next class is.
+User can view all events for all the classes they have signed up for in the Your Timetable section.
+User can view all their assignments for all classes they have signed up for.
+Class Manager can add new students and teachers to the Class.
+Teacher of the class can post announcements to that class. See which students have read them.
+Assign library books and study files to the Class for easy access.
+Class Attendance allows you to submit attendance reports of every user in the class.
+Assignments can be of two types: exam or submission.
+Submission assignments allow the user to upload a file before a deadline.
+Teacher can view all submissions and grade them.
+Add subjects and assign teachers to the subjects.
+Group classes into Categories.
+Add unqiue grading system for each class.
+Specify the weighting of each assignment.
+Ability to mark each assignment
+Announcements
+Global school announcements can be posted by staff that notify the whole school.
+Global announcements are displayed on the frontpage.
+Study Material
+File System which allows you to upload files to the site that Students can then download.
+Specified the allowed file types in the Admin Panel.
+Organise your files into categories.
+Files can be added to Classes for easy access.
+Students
+Custom User Roles allows you to specify what permissions your Students have.
+Students can be managed by Teachers, including viewing all their classes, attendance and behaviour records.
+Student Groups allow you to group your students together.
+Student Groups have their own page where the teacher can post announcements.
+Restrict access to who can view which Student Groups.
+School Report shows student’s grades and attendance for each class.
+Download School Report as PDF.
+Parents
+Parents can have children assigned to them.
+Parents can view all the details of their children, including classes, attendance, behaviour reports and school reports.
+Parent Manager User Role allows the user to manage parents.
+User & Registration System
+Users can register for an account using the quick and easy register page.
+Captcha enabled registration page to prevent bots from spamming your site (can be disabled in Admin Panel (includes Google ReCaptcha)
+Users can also register accounts using their Social Network accounts, making it even quicker to sign up to your site!
+Login System comes with a Forgotten Password page, to allow users to reset their password via email.
+Prevents spam by making sure the email address is unique and valid.
+Passwords are encrypted using PHPass library to make sure your data is safe!
+Can disable registration from Admin Panel, as well as Social Login option.
+User roles allow you to give permissions to specific users.
+Finance System
+Keep track of your finances by adding costs and revenue entries.
+Dashboard produces beautiful graph of your years finances.
+Organise with Categories.
+Behaviour System
+Add Rules that you can record records of.
+Behaviour Records allow you to record incidents of rule breaking for students.
+Assign students to records, including date and incident report.
+View a user’s behaviour records in the View Students section.
+Invoice System
+Create Invoices that can be paid with PayPal, Stripe or 2Checkout.
+Automatically set Invoice to paid by using PayPal’s IPN system, Stripe’s API or 2Checkouts API.
+Two different Tax options.
+Add items to invoices.
+Create Invoice Templates.
+Create Reoccuring Invoices.
+Download Invoices as PDFs.
+View Web Version of Invoices to send to clients/students.
+Create Paying Accounts that allow you to specify API keys for payment gateways.
+Library System
+Add unlimited books to your Library system.
+Allow students to reserve books.
+Allow Librarian/Teacher to checkout books for students.
+View all reserved/checkedout books.
+Reports
+View Financial Reports between specified date ranges.
+View Attendance Reports between specified date ranges.
+Mailbox
+Send Messages to any user on the system.
+View all your messages in a beautiful designed inbox.
+Block List to block users.
+Get notifications when you recieve new messages.
+Members
+Search Members by username.
+User Profiles.
+User Settings area allows user to change their avatar, update their name and other information.
+Change Password option in Settings page too.
+User Roles
+User Role system allows you to assign specific permissions to users.
+Set a default User Role in the Admin panel.
+Admins have access to all sections of the site.
+Create custom User Roles in the Admin Panel.
+Create User Roles specifically for parents,students,teachers so they don’t see more than they need to.
+Admin Panel
+Able to disable registration
+Able to disable Captcha, Google ReCaptcha
+Change site name, logo and other settings.
+Able to change layout theme: Basic, Titan, Dark Fire and Light Blue
+Able to disable social network login
+Manage Members allows you to edit, delete and view Member information, such as their IP address, email and when they last logged in.
+User Groups allow you to sort and categorize members easily.
+Email Templates make translating emails much more easier by using our Email Templates option.
+Email Members area allows you to send emails to all of your registered emails. Select by User Group, Username or All Users.
+IP Blocking system allows you to block certain IPs from registering accounts and from logging in.
+Section Settings allow you to disable various areas of the system.
+Date Settings allow you to change the way dates are displayed.
+School Settings let you change the way certain aspects of your site work.
+Manage your currencies and Invoice settings.
+Manage Custom Fields for Users.
+Translation Ready
+Easy translate the entire system by modifying our translation files (just 3 to edit!)
+Allow users to switch between a language of their choice using our unique Language Switcher.
+Supports any UTF-8 language and RTL languages!
+Documentation Guide to walk you through how to translate
+System
+Built on CodeIgniter 3.1.5
+Built on Bootstrap 3.3.4
+Translation Ready
+Requires PHP 5.4 and a MySQL database.
+Supports MySQL, Mysqli and PDO drivers.
+Supports SMTP Email, PHP Mail()
+Four Themes: Basic, Titan, Dark Fire and Light Blue.
